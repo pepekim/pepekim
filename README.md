@@ -1,6 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=PePeKim&fontSize=90)
 
-<p align="center"><h3>PEPEKIM also known as TaehyunKim</h3></p>
+<h3><p align="center">PEPEKIM also known as TaehyunKim</p></h3>
 
 ![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=footer&text=PePeKim&fontSize=90)
 
