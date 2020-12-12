@@ -11,9 +11,9 @@
 
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/></a>&nbsp 
 
-<img src="https://img.shields.io/badge/Html-E34F26?style=flat-square&logo=JavaScript&logoColor=white"/></a>&nbsp 
+<img src="https://img.shields.io/badge/Html-E34F26?style=flat-square&logo=Html&logoColor=white"/></a>&nbsp 
 
-<img src="https://img.shields.io/badge/Css-1572B6?style=flat-square&logo=JavaScript&logoColor=white"/></a>&nbsp 
+<img src="https://img.shields.io/badge/Css-1572B6?style=flat-square&logo=Css&logoColor=white"/></a>&nbsp 
 
 
 ### Hi there 👋
