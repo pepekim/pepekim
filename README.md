@@ -17,7 +17,7 @@
 
 <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white"/></a>&nbsp 
 
-<img src="https://img.shields.io/badge/styled-components-DB7093?style=flat-square&logo=styledcomponents&logoColor=white"/></a>&nbsp 
+<img src="https://img.shields.io/badge/styledcomponents-DB7093?style=flat-square&logo=styledcomponents&logoColor=white"/></a>&nbsp 
 
 
 
