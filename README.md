@@ -1,3 +1,19 @@
+![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=PePeKim&fontSize=90)
+
+# PEPEKIM also known as TaehyunKim
+
+![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=footer&text=PePeKim&fontSize=90)
+
+# Tech
+
+
+# Contact
+
+
+
+
+
+
 ### Hi there 👋
 
 Here are some ideas to get you started:
