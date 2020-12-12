@@ -6,8 +6,6 @@
 
 # 💻Tech💻
 
-# 📞Contact📞
-
 <div align="center">
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/></a>
 
@@ -21,6 +19,15 @@
 
 <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white"/></a>
 </div>
+
+# 📞Contact📞
+
+<img src="https://img.shields.io/badge/Velog-00B336?style=flat-square&logo=Vimeo&logoColor=white"/></a>
+
+<img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=Gmail&logoColor=white"/></a>
+
+
+
 ### Hi there 👋
 
 Here are some ideas to get you started:
