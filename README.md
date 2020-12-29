@@ -12,6 +12,9 @@
 
 <p align="center">
 <a href="https://velog.io/@taehyunkim"><img src="https://img.shields.io/badge/Velog-00B336?style=flat-square&logo=Vimeo&logoColor=white"/></a><a/>&nbsp&nbsp<img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=Gmail&logoColor=white"/></a>
+
+<a href="mailto:polepole0733@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=Gmail&logoColor=white"/></a></a>
+
 </p>
 
 ![footer](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=footer&text=PePeKim&fontSize=90)
