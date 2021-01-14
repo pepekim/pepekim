@@ -5,8 +5,7 @@
 차가운 알루미늄 노트북을 가지고 일을 하지만, 온기는 잃지않는 개발자 입니다.</br>
 개발에는 컴퓨터 너머의 것이 있다고 믿습니다.
 
-## Tech 💻
-## 
+Tech 💻
 <p>
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white"/></a>
@@ -21,8 +20,9 @@
 <img src="https://img.shields.io/badge/Redux-764ABC?style=flat-square&logo=Firebase&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=Firebase&logoColor=white"/></a>
 </p>
+##
 
-## Contact 📞
+Contact 📞
 
 <p>
 <a href="https://velog.io/@taehyunkim"><img src="https://img.shields.io/badge/Velog-00B336?style=flat-square&logo=Vimeo&logoColor=white"/></a><a/>&nbsp&nbsp<a href="mailto:polepole0733@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=Gmail&logoColor=white"/></a></a>
