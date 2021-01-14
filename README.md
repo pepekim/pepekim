@@ -1,4 +1,4 @@
-<h1><p align="center">PEPEKIM also known as TaehyunKim</p></h3>
+<h1><p align="center">TaehyunKim</p></h1>
 
 # Tech💻
 
