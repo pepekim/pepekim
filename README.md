@@ -2,11 +2,9 @@
 
 <p>주니어 프론트엔드 개발자</p>
 
+<p>Introduce</p>
 <p>
-Introduce
-asdasdasdadasd
-  asdadasdasd
-  asdasda
+weefewfewf
 </p>
 <h3>Tech 💻</h3>
 
