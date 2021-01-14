@@ -2,7 +2,7 @@
 
 <p>주니어 프론트엔드 개발자</p>
 
-Tech 💻
+<h3>Tech 💻</h3>
 
 <p>
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"/></a>
