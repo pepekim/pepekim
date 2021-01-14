@@ -18,9 +18,9 @@ Tech 💻
 <img src="https://img.shields.io/badge/styledComponents-DB7093?style=flat-square&logo=styled%2Dcomponents&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Redux-764ABC?style=flat-square&logo=Firebase&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=Firebase&logoColor=white"/></a>
+## <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=Firebase&logoColor=white"/></a>
 </p>
-##
+
 
 Contact 📞
 
