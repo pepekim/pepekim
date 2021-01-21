@@ -1,5 +1,5 @@
-# 김태현 (프론트엔드 개발자)
----
+## 김태현 (프론트엔드 개발자)
+
 ## Tech
 <p>
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"/></a>
@@ -15,7 +15,7 @@
 <img src="https://img.shields.io/badge/Redux-764ABC?style=flat-square&logo=Firebase&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=Firebase&logoColor=white"/></a>
 </p>
----
+
 ## Contact
 <a href="https://velog.io/@taehyunkim"><img src="https://img.shields.io/badge/Velog-00B336?style=flat-square&logo=Vimeo&logoColor=white"/></a><a/><a href="mailto:polepole0733@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=Gmail&logoColor=white"/></a></a>
 
@@ -23,7 +23,7 @@
 
 <br />
 <br />
----
+
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgjbae1212%2Fhit-counter)](https://hits.seeyoufarm.com)             
 <img align="left" alt="arnabdeypolimi's Github Stats" src="https://github-readme-stats.vercel.app/api?username=pepekim" />
 ![Pepekim's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=pepekim&show_icons=true&layout=compact&hide_border=true)
