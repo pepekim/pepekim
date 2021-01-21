@@ -21,19 +21,19 @@
 <a href="https://velog.io/@taehyunkim"><img src="https://img.shields.io/badge/Velog-00B336?style=flat-square&logo=Vimeo&logoColor=white"/></a><a/><a href="mailto:polepole0733@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=Gmail&logoColor=white"/></a></a>
 </p>
 
-### Latest Project Videos
+### Project Videos
 <p>
 [React Native | Delvery App Project] (추후 업데이트) <br/>
 [React | 29CM Clone Project] (추후 업데이트) <br />
 [React | WatchaPedia Clone Project] (https://www.youtube.com/watch?v=ZEJkyEPUxqU) <br />
 </p>
-### Blog Main Articles
 
-- [Lab | JavaScript, FormData 는 Console.log 가 불가능 할까?? (FormData 구조 파헤치기)](https://velog.io/@xedni/Lab-JavaScript-FormData)
-- [Diary | 비전공자의 개발 철학](https://velog.io/@xedni/Diary-2020-11-15)
-- [실제 서비스 100% 구현을 향한 React Native 개발 리뷰](https://velog.io/@xedni/Rroject-MarketKurly-APP-%ED%81%B4%EB%A1%A0%ED%95%98%EA%B8%B0)
-- [클론 하려 했는데 기획하게 된 React 개발 리뷰](https://velog.io/@xedni/Project-%ED%81%B4%EB%9E%98%EC%8A%A4101-%ED%81%B4%EB%A1%A0-%EC%BD%94%EB%94%A9-%EB%A6%AC%EB%B7%B0-1)
-- [오늘의집 긴장해.. 지금 내일의집 만든다. React 개발 리뷰](https://velog.io/@xedni/Project-%EC%98%A4%EB%8A%98%EC%9D%98%EC%A7%91-%ED%81%B4%EB%A1%A0-%EC%BD%94%EB%94%A9-%EB%A6%AC%EB%B7%B0-1)
+### Articles
+
+- [이런 개발자가 되고 싶다](https://velog.io/@taehyunkim/%EC%9D%B4%EB%9F%B0-%EA%B0%9C%EB%B0%9C%EC%9E%90%EA%B0%80-%EB%90%98%EA%B3%A0%EC%8B%B6%EB%8B%A4)
+- [기업 인턴십 후기](https://velog.io/@taehyunkim/%EC%9C%84%ED%8B%B0-%EA%B8%B0%EC%97%85%ED%98%91%EC%97%85-%ED%9B%84%EA%B8%B0)
+- [2.9CM 프로젝트 후기](https://velog.io/@taehyunkim/2.9CM-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-%ED%9B%84%EA%B8%B0)
+- [갓챠피디아 프로젝트 후기](https://velog.io/@taehyunkim/%EA%B0%93%EC%B1%A0%ED%94%BC%EB%94%94%EC%95%84-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-%ED%9B%84%EA%B8%B0)
 
 <p>
 
