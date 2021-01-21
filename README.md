@@ -18,7 +18,10 @@
 
 ## Contact
 <p>
-<a href="https://velog.io/@taehyunkim"><img src="https://img.shields.io/badge/Velog-00B336?style=flat-square&logo=Vimeo&logoColor=white"/></a><a/><a href="mailto:polepole0733@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=Gmail&logoColor=white"/></a></a>
+<a href="https://velog.io/@taehyunkim"><img src="https://img.shields.io/badge/Velog-00B336?style=flat-square&logo=Vimeo&logoColor=white"/></a><a/>
+</p>
+<p>
+<a href="mailto:polepole0733@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=Gmail&logoColor=white"/></a></a>
 </p>
 
 ### Project Videos
