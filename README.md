@@ -23,9 +23,9 @@
 
 ### Latest Project Videos
 <p>
-[[React Native] MarketKurly Clone Project](https://youtu.be/pBbvEsXnk7Y) <br/>
-[[React] CLASS101 Clone Project](https://youtu.be/qU5auE2DBgo) <br />
-[[React] OHouse Clone Project](https://youtu.be/e-y7PCsRhGo) <br />
+[React Native | Delvery App Project] (추후 업데이트) <br/>
+[React | 29CM Clone Project] (추후 업데이트) <br />
+[React | WatchaPedia Clone Project] (추후 업데이트) <br />
 </p>
 ### Blog Main Articles
 
