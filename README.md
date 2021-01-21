@@ -25,7 +25,7 @@
 <p>
 [React Native | Delvery App Project] (추후 업데이트) <br/>
 [React | 29CM Clone Project] (추후 업데이트) <br />
-[React | WatchaPedia Clone Project] (추후 업데이트) <br />
+[React | WatchaPedia Clone Project] (https://www.youtube.com/watch?v=ZEJkyEPUxqU) <br />
 </p>
 ### Blog Main Articles
 
