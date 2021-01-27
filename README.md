@@ -26,8 +26,8 @@
 
 ### Project Videos
 
-- [[React Native] Delivery App Clone Project](https://www.youtube.com/watch?v=ZEJkyEPUxqU)
-- [[React] 29CM Clone Project](https://www.youtube.com/watch?v=ZEJkyEPUxqU)
+- [[React Native] Delivery App Clone Project]
+- [[React] 29CM Clone Project]
 - [[React] WatchaPedia Clone Project](https://www.youtube.com/watch?v=ZEJkyEPUxqU)
 
 ### Articles
