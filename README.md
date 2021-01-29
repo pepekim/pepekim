@@ -31,7 +31,7 @@
 - [[React] WatchaPedia Clone Project](https://www.youtube.com/watch?v=pafC7s40yjo)
 
 ### Articles
-
+- [개발을 시작하게 된 계기](https://velog.io/@taehyunkim/%EC%99%9C-%EA%B0%9C%EB%B0%9C%EC%9D%84-%EC%8B%9C%EC%9E%91%ED%95%98%EA%B2%8C-%EB%90%98%EC%97%88%EB%8A%94%EA%B0%80)
 - [이런 개발자가 되고 싶다](https://velog.io/@taehyunkim/%EC%9D%B4%EB%9F%B0-%EA%B0%9C%EB%B0%9C%EC%9E%90%EA%B0%80-%EB%90%98%EA%B3%A0%EC%8B%B6%EB%8B%A4)
 - [기업 인턴십 후기](https://velog.io/@taehyunkim/%EC%9C%84%ED%8B%B0-%EA%B8%B0%EC%97%85%ED%98%91%EC%97%85-%ED%9B%84%EA%B8%B0)
 - [2.9CM 프로젝트 후기](https://velog.io/@taehyunkim/2.9CM-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-%ED%9B%84%EA%B8%B0)
